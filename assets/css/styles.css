@@ -1,0 +1,58 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+    background: #6ea9dd;
+  }
+
+.navbar{
+    margin-bottom: 40px;
+
+}
+
+#temp-image {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+  }
+
+#temp-image1{
+    width: 500px;
+    height: 400px;
+    margin-bottom: 20px;
+}
+
+#hum-image{
+    width: 150px;
+    height: 150px;
+    position: relative; 
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+
+#figure {
+    position: relative;
+  }
+
+
+
+.col-md-6{
+    margin-top: 40px;
+    margin-right: 20px;
+}
+.col-md-4{
+    margin-top: 40px;
+    margin-right: 20px;
+}
+
+.table{
+    table-layout: fixed;
+    width: 100%;
+}
+  
+  
