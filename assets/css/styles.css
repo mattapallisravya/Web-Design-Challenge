@@ -5,8 +5,11 @@ body {
     font-size: 18px;
     line-height: 150%;
     color: #333;
-    background: #6ea9dd;
+    background: hsla(212, 74%, 47%, 0.608);
   }
+.imageNav-header{
+    color: rgb(14, 154, 58) 
+}
 
 .navbar{
     margin-bottom: 40px;
@@ -20,10 +23,13 @@ body {
   }
 
 #temp-image1{
-    width: 500px;
+    width: 450px;
     height: 400px;
-    margin-bottom: 20px;
+    margin: 10px;
+    
 }
+
+
 
 #hum-image{
     width: 150px;
@@ -38,6 +44,15 @@ body {
 #figure {
     position: relative;
   }
+
+#image{
+    width: 500px;
+    height: 400px;
+    position: relative; 
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
 
 
 
@@ -54,5 +69,16 @@ body {
     table-layout: fixed;
     width: 100%;
 }
-  
-  
+
+h3{
+    margin-top: 10px;
+}
+
+.navbar-brand{
+    -webkit-text-fill-color: crimson;
+   
+}
+
+.display-5{
+    -webkit-text-fill-color: rgb(14, 144, 66);
+}
