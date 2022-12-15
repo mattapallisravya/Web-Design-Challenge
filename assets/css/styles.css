@@ -31,13 +31,10 @@ body {
 
 
 
-#hum-image{
+.imageNav-photo{
     width: 150px;
     height: 150px;
-    position: relative; 
-    margin-bottom: 20px;
-    margin-left: 20px;
-    margin-top: 20px;
+    margin: 5px;
 }
 
 
@@ -56,13 +53,13 @@ body {
 
 
 
-.col-md-6{
+.col-md-7{
     margin-top: 40px;
-    margin-right: 20px;
+    margin-right: 10px;
 }
 .col-md-4{
     margin-top: 40px;
-    margin-right: 20px;
+   
 }
 
 .table{
@@ -82,3 +79,4 @@ h3{
 .display-5{
     -webkit-text-fill-color: rgb(14, 144, 66);
 }
+
