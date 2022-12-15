@@ -1,6 +1,6 @@
 # Web-Design-Challenge
 
-- Created website using bootstrap 4.
+Created website using bootstrap 4.
 
 - Website consists of seven pages.
 
